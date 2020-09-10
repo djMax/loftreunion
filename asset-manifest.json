@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/loftreunion/static/css/main.5f361e03.chunk.css",
+    "main.js": "/loftreunion/static/js/main.79f2741f.chunk.js",
+    "main.js.map": "/loftreunion/static/js/main.79f2741f.chunk.js.map",
+    "runtime-main.js": "/loftreunion/static/js/runtime-main.76212f47.js",
+    "runtime-main.js.map": "/loftreunion/static/js/runtime-main.76212f47.js.map",
+    "static/js/2.fd01935e.chunk.js": "/loftreunion/static/js/2.fd01935e.chunk.js",
+    "static/js/2.fd01935e.chunk.js.map": "/loftreunion/static/js/2.fd01935e.chunk.js.map",
+    "index.html": "/loftreunion/index.html",
+    "precache-manifest.259f1561ef7561397a8127a7160fd45e.js": "/loftreunion/precache-manifest.259f1561ef7561397a8127a7160fd45e.js",
+    "service-worker.js": "/loftreunion/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/loftreunion/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.fd01935e.chunk.js.LICENSE.txt": "/loftreunion/static/js/2.fd01935e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/loftreunion/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76212f47.js",
+    "static/js/2.fd01935e.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.79f2741f.chunk.js"
+  ]
+}
