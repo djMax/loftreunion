@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a7aeba92ef3dfd760a82669d31c241f9",
+    "revision": "33b38afa0b4d46f684b4c40bd83349a0",
     "url": "/loftreunion/index.html"
   },
   {
-    "revision": "c58145c2f839dcfaecb1",
+    "revision": "22a5d79d2f261268f4a2",
     "url": "/loftreunion/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/loftreunion/static/js/2.fd01935e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c58145c2f839dcfaecb1",
-    "url": "/loftreunion/static/js/main.79f2741f.chunk.js"
+    "revision": "22a5d79d2f261268f4a2",
+    "url": "/loftreunion/static/js/main.34ef4dad.chunk.js"
   },
   {
     "revision": "e8f8e29d168f479ab4e8",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/loftreunion/precache-manifest.259f1561ef7561397a8127a7160fd45e.js"
+  "/loftreunion/precache-manifest.4c3cd2f15a9905ec45bc51d5eff02147.js"
 );
 
 self.addEventListener('message', (event) => {
