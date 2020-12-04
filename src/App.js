@@ -5,9 +5,14 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="/loft.jpg" className="App-logo" alt="logo" />
+        <a href="https://www.facethebassrecords.com/stream-chat"><img src="/flyer.jpg" className="App-logo" alt="logo" /></a>
         <p>
-          Loft Reunion 2020 Details Coming Soon!
+          Join us for Loft Reunion
+          <br/>
+          New Years Eve 2020 11pm-5am
+          <br/>
+          <br/>
+          <a href="https://www.facethebassrecords.com/stream-chat">Streaming on Face the Bass Records</a>
         </p>
       </header>
     </div>
